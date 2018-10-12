@@ -25,5 +25,5 @@ var theFunk = funkyFunction();
 
 add2(837);
 myAnimal();
-yourAnimal("cat");
+yourAnimal();
 theFunk();
