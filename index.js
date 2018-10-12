@@ -27,5 +27,5 @@ var funkyFunction = function() {
 var theFunk = funkyFunction();
 
 add2(837);
-yourAnimal(cat);
+yourAnimal("cat");
 theFunk();
