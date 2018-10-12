@@ -3,6 +3,13 @@ function myAnimal() {
   return animal;
 }
 
+function yourAnimal(animal) {
+  animal = "cat"
+  return animal;
+}
+
+yourAnimal("cat");
+
 function add2(n) {
   const two = 2;
   return n + two;
@@ -21,4 +28,4 @@ var theFunk = funkyFunction();
 
 add2(837);
 myAnimal();
-theFunk(funkyFunction());
+theFunk(funkyFunction);
