@@ -5,7 +5,7 @@ function yourAnimal(animal) {
   return animal;
 }
 
-function myAnimal() {
+var myAnimal = function() {
   const animal = 'dog';
   return animal;
 }
