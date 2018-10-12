@@ -7,7 +7,7 @@ function yourAnimal(animal) {
   return animal;
 }
 
-yourAnimal(cat);
+yourAnimal("cat");
 
 function add2(n) {
   const two = 2;
