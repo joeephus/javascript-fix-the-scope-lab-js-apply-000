@@ -27,4 +27,4 @@ var theFunk = funkyFunction();
 
 add2(837);
 myAnimal();
-theFunk();
+theFunk(funkyFunction());
