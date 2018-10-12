@@ -5,7 +5,7 @@ function myAnimal() {
 
 var yourAnimal = function(animal) {
   return animal;
-}
+};
 
 function add2(n) {
   const two = 2;
