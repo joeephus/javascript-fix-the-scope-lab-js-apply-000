@@ -3,9 +3,11 @@ function myAnimal() {
   return animal;
 }
 
-var yourAnimal = function(animal) {
-  return animal.toString();
-};
+function yourAnimal(animal) {
+  return animal;
+}
+
+yourAnimal("cat");
 
 function add2(n) {
   const two = 2;
@@ -25,5 +27,4 @@ var theFunk = funkyFunction();
 
 add2(837);
 myAnimal();
-yourAnimal(cat);
 theFunk();
