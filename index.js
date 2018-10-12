@@ -6,7 +6,7 @@ function yourAnimal(animal) {
 }
 
 function myAnimal() {
-  var animal = 'dog';
+  const animal = 'dog';
   return animal;
 }
 
